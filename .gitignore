@@ -1,0 +1,23 @@
+# Ignore everything by default
+*
+
+# Allow only the Assets folder
+!Assets/
+!Assets/**
+
+# Always allow the .gitignore file itself
+!.gitignore
+
+# Allow ProjectSettings (if needed)
+!ProjectSettings/
+!ProjectSettings/**
+
+# Ignore Library, Logs, Builds, and other unnecessary files
+Library/
+Logs/
+obj/
+Temp/
+Builds/
+UserSettings/
+MemoryCaptures/
+Packages/
