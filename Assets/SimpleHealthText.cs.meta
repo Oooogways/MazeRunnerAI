@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 1099cdc366059a14f9f370fc4017a75c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthText: {fileID: 7622172821462124459, guid: a6690e10dc0328743bd2df61c7417bde, type: 3}
+  - gameOverPanel: {fileID: 4697695149231184453, guid: bb49b23e8b973bd49b21386645ec1189, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+=======
+guid: 1099cdc366059a14f9f370fc4017a75c
+>>>>>>> b15ae4d7a7033609add3b6fa805f50e4913641f5
